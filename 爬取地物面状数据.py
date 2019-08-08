@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 outPath = r"D:\MyWorkSpace\郑州"
 
-AMAP_API_KEY = "911f302a47869cd1d5ab622369ed52ac" #高德地图密匙
+AMAP_API_KEY = "***" #高德地图密匙
 urlParamJson = {
     'city' : '郑州',
     'output' : 'xml',
